@@ -1,0 +1,13 @@
+# Dados sensíveis - nunca versionar
+.env
+tomadores.json
+
+# Arquivos de saída gerados pelo script
+NegociosDia.xlsx
+NegociosFiltrado.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
